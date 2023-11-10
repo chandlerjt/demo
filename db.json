@@ -1,14 +1,236 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	"activity": {
+		"header": {
+			"court": "Eastern District of New York",
+			"court_id": "0207",
+			"court_short": "nyed",
+			"ecf_version": "10.6.3",
+			"c_today": "Fri, Jul 15, 2022",
+			"run_time": "07/15/2022 16:40:39 PM",
+			"search_arg": "case",
+			"search_val": "438909",
+			"doc_total": "Documents: 1"
+		},
+		"entry": {
+			"entry_id": "0207_1_19cr00435_fd2262",
+			"ecf_data": {
+				"defendant": "Lee,David",
+				"dft_last_name": "Strange",
+				"dft_first_name": "Steven",
+				"dft_middle_name": "",
+				"dft_generation": "",
+				"dft_num": "1",
+				"case_num": "1:19-cr-00428-BMC",
+				"case_id": "438409",
+				"title": "USA v. Strange",
+				"case_type": "cr",
+				"counts": {
+					"highest_offense_level": "Felony",
+					"count": [
+						{
+							"count_number": "1",
+							"disposition_code": "1",
+							"disposition_code_descr": "Dismissed; Gvt motion for judgment of acquittal granted",
+							"procedural_interval": "P9",
+							"procedural_interval_descr": "Disposed",
+							"citation_code": "21:841A=ND.F",
+							"citation_descr": "NARCOTICS - SELL, DISTRIBUTE, OR DISPENSE",
+							"count_descr": "Title 21, United States Code, Sections 841(a)(1) and 841(b)(1)(C); Title 18, United States Code, Sections 2 and 3551 et. seq.  NARCOTICS - SELL, DISTRIBUTE, OR DISPENSE (1)",
+							"disposition_text": "Dismissed"
+						},
+						{
+							"count_number": "1s",
+							"disposition_code": "1",
+							"disposition_code_descr": "Dismissed; Gvt motion for judgment of acquittal granted",
+							"procedural_interval": "P9",
+							"procedural_interval_descr": "Disposed",
+							"citation_code": "21:841A=ND.F",
+							"citation_descr": "NARCOTICS - SELL, DISTRIBUTE, OR DISPENSE",
+							"count_descr": "21:841(a)(1) and 841(b)(1)(C); 18:2 and 3551 et seq.- Distribution and Possession with Intent to Distribute Fentanyl, Methamphetamine and Cocaine. (1s)",
+							"disposition_text": "Dismissed"
+						},
+						{
+							"count_number": "1ss",
+							"disposition_code": "4",
+							"disposition_code_descr": "Convicted/Final plea of guilty",
+							"procedural_interval": "P6",
+							"procedural_interval_descr": "Post Sentencing",
+							"citation_code": "21:841A=CD.F",
+							"citation_descr": "CONTROLLED SUBSTANCE - SELL, DISTRIBUTE, OR DISPENSE",
+							"count_descr": "Title 21, United States Code, Sections 841(a)(l) and 841(b)(l)(C); Titie 18, United States Code, Sections 2 and 3551 et seq. = Distribution and Possession with Intent to distribute Fentanyl, Methamphetamine and Cocaine (1ss)",
+							"disposition_text": "Imprisonment: 240 months on each of Counts 1 and 4, and 360 months on each of counts 2 and 3, the sentences on all counts to run concurrent. Supervised Release: three (3) Years on each count to run concurrent. $400 Special Assessment. Special Conditions of Supervision."
+						},
+						{
+							"count_number": "2",
+							"disposition_code": "1",
+							"disposition_code_descr": "Dismissed; Gvt motion for judgment of acquittal granted",
+							"procedural_interval": "P9",
+							"procedural_interval_descr": "Disposed",
+							"citation_code": "21:841A=ND.F",
+							"citation_descr": "NARCOTICS - SELL, DISTRIBUTE, OR DISPENSE",
+							"count_descr": "Title 21, United States Code, Sections 841(a)(1) and 841(b)(1)(C); Title 18, United States Code, Sections 2 and 3551 et. seq.  NARCOTICS - SELL, DISTRIBUTE, OR DISPENSE (2)",
+							"disposition_text": "Dismissed"
+						},
+						{
+							"count_number": "2s",
+							"disposition_code": "1",
+							"disposition_code_descr": "Dismissed; Gvt motion for judgment of acquittal granted",
+							"procedural_interval": "P9",
+							"procedural_interval_descr": "Disposed",
+							"citation_code": "21:841A=ND.F",
+							"citation_descr": "NARCOTICS - SELL, DISTRIBUTE, OR DISPENSE",
+							"count_descr": "21:841(a)(1) and 841(b)(1)(C); 18:2 and 3551 et seq.- Distribution of Fentanyl Causing the Death of John Doe &#035;1 (2s)",
+							"disposition_text": "Dismissed"
+						},
+						{
+							"count_number": "2ss",
+							"disposition_code": "4",
+							"disposition_code_descr": "Convicted/Final plea of guilty",
+							"procedural_interval": "P6",
+							"procedural_interval_descr": "Post Sentencing",
+							"citation_code": "21:841A=CD.F",
+							"citation_descr": "CONTROLLED SUBSTANCE - SELL, DISTRIBUTE, OR DISPENSE",
+							"count_descr": "Title 21, United States Code, Sections 841(a)(l) and 841(b)(l)(C); Title 18, United States Code, Sections 2 and 3551 et seq. = Distribution of Fentanyl Causing the Death of John Doe &#035;1 (2ss)",
+							"disposition_text": "Imprisonment: 240 months on each of Counts 1 and 4, and 360 months on each of counts 2 and 3, the sentences on all counts to run concurrent. Supervised Release: three (3) Years on each count to run concurrent. $400 Special Assessment. Special Conditions of Supervision."
+						},
+						{
+							"count_number": "3s",
+							"disposition_code": "1",
+							"disposition_code_descr": "Dismissed; Gvt motion for judgment of acquittal granted",
+							"procedural_interval": "P9",
+							"procedural_interval_descr": "Disposed",
+							"citation_code": "21:841A=ND.F",
+							"citation_descr": "NARCOTICS - SELL, DISTRIBUTE, OR DISPENSE",
+							"count_descr": "21:841(a)(1) and 841(b)(1)(C); 18:2 and 3551 et seq.- Distribution of Fentanyl, Methamphetamine and Cocaine causing the Death of John Doe &#035;2 (3s)",
+							"disposition_text": "Dismissed"
+						},
+						{
+							"count_number": "3ss",
+							"disposition_code": "4",
+							"disposition_code_descr": "Convicted/Final plea of guilty",
+							"procedural_interval": "P6",
+							"procedural_interval_descr": "Post Sentencing",
+							"citation_code": "21:841A=CD.F",
+							"citation_descr": "CONTROLLED SUBSTANCE - SELL, DISTRIBUTE, OR DISPENSE",
+							"count_descr": "Title 21, United States Code, Sections 841(a)(l) and 841(b)(l)(C); Title 18,. United States Code, Sections 2 and 3551 et seq. = Distribution ofFentanyl, Methamphetamine and Cocaine Causing. the Death of John Doe &#035;2 (3ss)",
+							"disposition_text": "Imprisonment: 240 months on each of Counts 1 and 4, and 360 months on each of counts 2 and 3, the sentences on all counts to run concurrent. Supervised Release: three (3) Years on each count to run concurrent. $400 Special Assessment. Special Conditions of Supervision."
+						},
+						{
+							"count_number": "4ss",
+							"disposition_code": "4",
+							"disposition_code_descr": "Convicted/Final plea of guilty",
+							"procedural_interval": "P6",
+							"procedural_interval_descr": "Post Sentencing",
+							"citation_code": "21:846=CD.F",
+							"citation_descr": "CONSPIRACY TO DISTRIBUTE CONTROLLED SUBSTANCE",
+							"count_descr": "Title 21, United States Code, Sections 846 and 841 (b )(1 )(C); Title 18, United States Code, Sections 2 and 3551 et seq. = Conspiracy to Distribute and Possess with Intent to Distribute Gamma-Butyrolactone (4ss)",
+							"disposition_text": "Imprisonment: 240 months on each of Counts 1 and 4, and 360 months on each of counts 2 and 3, the sentences on all counts to run concurrent. Supervised Release: three (3) Years on each count to run concurrent. $400 Special Assessment. Special Conditions of Supervision."
+						}
+					]
+				},
+				"also_known_as": "",
+				"total_prison_time": "360",
+				"total_prob_time": "",
+				"total_sup_rel_time": "144",
+				"total_fine": "$0.00",
+				"total_spec_access": "$400",
+				"event": {
+					"de_doc_num": "70",
+					"docket_text": "JUDGMENT dated 7/14/22  as to Steven Strange (1), Count(s) 1ss,2ss, 3ss and 4ss defendant is sentenced to: Imprisonment: 240 months on each of Counts 1 and 4, and 360 months on each of counts 2 and 3, the sentences on all counts to run concurrent for a total of 360 months. Supervised Release: three (3) Years on each count to run concurrent. &#036;400 Special Assessment. Special Conditions of Supervision;  Count(s) 1, 1s, 2, 2s, 3s, 5ss, 6ss, Dismissed;   ( Ordered by Judge Brian May on 7/14/2022 )",
+					"dp_type": "order-cr",
+					"dp_sub_type": "jgm",
+					"filed_date": "07/14/2022",
+					"entry_date": "2022-07-14 14:51:12",
+					"document": {
+						"dm_description": "Main_Document",
+						"dm_size": "74206",
+						"dm_pages": "1",
+						"write_file": "0207_1_19cr00549_001_Judgment_0083_0_Main_Document.pdf"
+					}
+				}
+			},
+			"pacts": {
+				"client": "Lee,David",
+				"client_id": "64582343",
+				"client_last_name": "Strange",
+				"client_first_name": "Steven",
+				"client_middle_name": "",
+				"client_generation": "",
+				"case_dkt_no": "0207 1:19CR00428",
+				"dob": "12/28/2021",
+				"sex": "Male",
+				"race": "White",
+				"height": "70",
+				"weight": "200",
+				"eye_color": "BLUE",
+				"hair_color": "BLACK",
+				"ssn": "X",
+				"state_id_no": "CA09680980Y",
+				"fbi": "UCN-94",
+				"ice": "",
+				"usms": "USMC-1",
+				"driver_license_no": "",
+				"arrest_date": "08/26/2019",
+				"adjudication_date": "2021-08-26",
+				"disposition_as": "EXEC",
+				"disposition_as_descr": "Execution of Sentence",
+				"alternate_name": {
+					"pacts_alt_name": "Strange, Doctor (Court Name)"
+				},
+				"convicted_offense": {
+					"convicted_count": [
+						{
+							"convicted_offense_cnt": "1",
+							"convicted_adjudicated_status": "CON",
+							"convicted_citation": "21:841B=ND.F",
+							"convicted_citation_descr": "NARCOTICS - SELL - DISTRIBUTE - OR DISPENSE",
+							"convicted_class_offense": "Class A Felony",
+							"convicted_date_offense_concluded": "08/18/2019",
+							"convicted_created_on": "2022-07-15T14:17:00Z",
+							"convicted_updated_on": ""
+						},
+						{
+							"convicted_offense_cnt": "2",
+							"convicted_adjudicated_status": "CON",
+							"convicted_citation": "21:846=CD.F",
+							"convicted_citation_descr": "CONSPIRACY TO DISTRIBUTE CONTROLLED SUBSTANCE",
+							"convicted_class_offense": "Class C Felony",
+							"convicted_date_offense_concluded": "08/18/2019",
+							"convicted_created_on": "2021-09-08T18:23:28Z",
+							"convicted_updated_on": "2022-07-15 14:17:36Z"
+						},
+						{
+							"convicted_offense_cnt": "3",
+							"convicted_adjudicated_status": "CON",
+							"convicted_citation": "21:841A=ND.F",
+							"convicted_citation_descr": "NARCOTICS - SELL - DISTRIBUTE - OR DISPENSE (Most Severe)",
+							"convicted_class_offense": "Class A Felony",
+							"convicted_date_offense_concluded": "08/05/2019",
+							"convicted_created_on": "2022-07-15T14:16:21Z",
+							"convicted_updated_on": "2022-07-15 14:17:36Z"
+						}
+					]
+				},
+				"sentence": {
+					"prison_time": "360 Months",
+					"prison_start_date": "08/25/2019",
+					"tsr": "36 Months",
+					"tsr_start_date": "02/24/2045",
+					"fine": "$ 0.00",
+					"assessment": "$ 400.00",
+					"restitution": "$ 21522.00",
+					"sentence_type_id": "ORIG",
+					"sentence_type_descr": "Original",
+					"created_on_sentence": "2022-07-15T13:55:27Z",
+					"updated_on_sentence": "2022-07-15T14:12:59Z",
+					"conditional_release": "No",
+					"date_sentenced": "04/26/2022",
+					"bop_projected_release_date": "02/24/2045",
+					"amended_reason": "",
+					"remarks": "JC updated to add Restitution amount to the top of Page 7. SOR updated to correct the Date of Imposition from 6/8/2022 to 4/26/2022.",
+					"fdats_notes": ""
+				}
+			}
+		}
+	}
 }

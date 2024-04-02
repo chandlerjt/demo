@@ -125,113 +125,75 @@
 							"citation_descr": "CONSPIRACY TO DISTRIBUTE CONTROLLED SUBSTANCE",
 							"count_descr": "Title 21, United States Code, Sections 846 and 841 (b )(1 )(C); Title 18, United States Code, Sections 2 and 3551 et seq. = Conspiracy to Distribute and Possess with Intent to Distribute Gamma-Butyrolactone (4ss)",
 							"disposition_text": "Imprisonment: 240 months on each of Counts 1 and 4, and 360 months on each of counts 2 and 3, the sentences on all counts to run concurrent. Supervised Release: three (3) Years on each count to run concurrent. $400 Special Assessment. Special Conditions of Supervision."
-						},
-                        {
-							"count_number": "5",
-							"disposition_code": "4",
-							"disposition_code_descr": "Convicted/Final plea of guilty",
-							"procedural_interval": "P6",
-							"procedural_interval_descr": "Post Sentencing",
-							"citation_code": "18:922G.F",
-							"citation_descr": "UNLAWFUL TRANSPORT OF FIREARMS, ETC.",
-							"count_descr": "18:922(g)(1),924(a)(2) and 3551 et seq. - UNLAWFUL TRANSPORT OF FIREARMS, ETC. (1)",
-							"disposition_text": "The defendant was sentenced to sixty (60) months total in custody to run concurrently with any sentence that the state court will impose, and granted the defendant credit for the twenty-nine (29) months he has spent in custody, for a total of thirty-one (31) months in custody starting from the date of sentencing. Special Assessment of $100.00."
-					    }
-                    ]
+						}
+					]
 				},
 				"also_known_as": "",
-				"total_prison_time": "31",
+				"total_prison_time": "360",
 				"total_prob_time": "",
-				"total_sup_rel_time": "24",
+				"total_sup_rel_time": "144",
 				"total_fine": "$0.00",
-				"total_spec_access": "$100",
+				"total_spec_access": "$400",
 				"event": {
-					"de_doc_num": "51",
-					"docket_text": "JUDGMENT  as to Jordan Mason (1), Count(s) 1, The defendant was sentenced to sixty (60) months total in custody to run concurrently with any sentence that the state court will impose, and granted the defendant credit for the twenty-nine (29) months he has spent in custody, for a total of thirty-one (31) months in custody starting from the date of sentencing.  Special Assessment of &#036;100.00. Ordered by Chief Judge Judy K. Wapner on 9/6/2022.",
+					"de_doc_num": "70",
+					"docket_text": "JUDGMENT dated 7/14/22  as to Steven Strange (1), Count(s) 1ss,2ss, 3ss and 4ss defendant is sentenced to: Imprisonment: 240 months on each of Counts 1 and 4, and 360 months on each of counts 2 and 3, the sentences on all counts to run concurrent for a total of 360 months. Supervised Release: three (3) Years on each count to run concurrent. &#036;400 Special Assessment. Special Conditions of Supervision;  Count(s) 1, 1s, 2, 2s, 3s, 5ss, 6ss, Dismissed;   ( Ordered by Judge Brian May on 7/14/2022 )",
 					"dp_type": "order-cr",
 					"dp_sub_type": "jgm",
-					"filed_date": "09/07/2022",
-					"entry_date": "2022-09-07 12:02:30",
+					"filed_date": "07/14/2022",
+					"entry_date": "2022-07-14 14:51:12",
 					"document": {
 						"dm_description": "Main_Document",
-						"dm_size": "446777",
-						"dm_pages": "7",
-						"write_file": "0207_1_20cr00136_001_Judgment_0051_0_Main_Document.pdf"
+						"dm_size": "74206",
+						"dm_pages": "1",
+						"write_file": "0207_1_19cr00549_001_Judgment_0083_0_Main_Document.pdf"
 					}
 				}
 			},
 			"pacts": {
-				"client": "Mason, Jordan",
-				"client_id": "6487321",
-				"client_last_name": "Mason",
-				"client_first_name": "Jordan",
+				"client": "Lee,David",
+				"client_id": "64582343",
+				"client_last_name": "Strange",
+				"client_first_name": "Steven",
 				"client_middle_name": "",
 				"client_generation": "",
-				"case_dkt_no": "0207 1:20CR00136",
-				"dob": "07/02/1989",
+				"case_dkt_no": "0207 1:19CR00428",
+				"dob": "12/28/2021",
 				"sex": "Male",
-				"race": "Black or African American",
-				"height": "74",
-				"weight": "185",
-				"eye_color": "BROWN",
+				"race": "White",
+				"height": "70",
+				"weight": "200",
+				"eye_color": "BLUE",
 				"hair_color": "BLACK",
-				"ssn": "128-76-1822",
-				"state_id_no": "NY000000ABC",
-				"fbi": "51049CD9",
+				"ssn": "X",
+				"state_id_no": "CA09680980Y",
+				"fbi": "UCN-94",
 				"ice": "",
-				"usms": "92274-000",
+				"usms": "USMC-1",
 				"driver_license_no": "",
-				"arrest_date": "02/12/2020",
-				"adjudication_date": "2021-08-12",
-				"disposition_as": "",
-				"disposition_as_descr": "",
+				"arrest_date": "08/26/2019",
+				"adjudication_date": "2021-08-26",
+				"disposition_as": "EXEC",
+				"disposition_as_descr": "Execution of Sentence",
 				"alternate_name": {
-					"pacts_alt_name": [
-						"Mason, Jordan (Court Name)",
-						"Mason, Jordan Anthony (Also Known As)"
-					]
-				},
-				"convicted_offense": {
-					"convicted_count": [
-						{
-							"convicted_offense_cnt": "1",
-							"convicted_adjudicated_status": "CON",
-							"convicted_citation": "18:922G.F",
-							"convicted_citation_descr": "UNLAWFUL TRANSPORT OF FIREARMS - ETC. (Most Severe)",
-							"convicted_class_offense": "Class C Felony",
-							"convicted_date_offense_concluded": "02/01/2020",
-							"convicted_created_on": "2021-08-16T18:58:12Z",
-							"convicted_updated_on": "2022-09-08 12:20:26Z"
-						},
-						{
-							"convicted_offense_cnt": "2",
-							"convicted_adjudicated_status": "CON",
-							"convicted_citation": "18:924A.F",
-							"convicted_citation_descr": "PENALTIES FOR FIREARMS",
-							"convicted_class_offense": "Class C Felony",
-							"convicted_date_offense_concluded": "02/01/2020",
-							"convicted_created_on": "2022-09-08T12:20:40Z",
-							"convicted_updated_on": "2022-09-08 12:20:39Z"
-						}
-					]
+					"pacts_alt_name": "Strange, Doctor (Court Name)"
 				},
 				"sentence": {
-					"prison_time": "31 Months",
-					"prison_start_date": "09/06/2022",
-					"tsr": "24 Months",
-					"tsr_start_date": "12/19/2024",
+					"prison_time": "360 Months",
+					"prison_start_date": "08/25/2019",
+					"tsr": "36 Months",
+					"tsr_start_date": "02/24/2045",
 					"fine": "$ 0.00",
-					"assessment": "$ 100.00",
-					"restitution": "$ 0.00",
+					"assessment": "$ 400.00",
+					"restitution": "$ 21522.00",
 					"sentence_type_id": "ORIG",
 					"sentence_type_descr": "Original",
-					"created_on_sentence": "2022-09-08T12:18:23Z",
-					"updated_on_sentence": "2022-09-08T12:23:25Z",
+					"created_on_sentence": "2022-07-15T13:55:27Z",
+					"updated_on_sentence": "2022-07-15T14:12:59Z",
 					"conditional_release": "No",
-					"date_sentenced": "09/06/2022",
-					"bop_projected_release_date": "12/19/2024",
+					"date_sentenced": "04/26/2022",
+					"bop_projected_release_date": "02/24/2045",
 					"amended_reason": "",
-					"remarks": "CHC III per SOR = 6 CHP. 60 months custody to run concurrently with any sentence the state court will impose. The court also granted 29 months credit for time spent in state custody resulting in a sentence of 31 months custody starting 9/6/2022.",
+					"remarks": "JC updated to add Restitution amount to the top of Page 7. SOR updated to correct the Date of Imposition from 6/8/2022 to 4/26/2022.",
 					"fdats_notes": ""
 				}
 			}

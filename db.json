@@ -26,8 +26,108 @@
 				"case_type": "cr",
 				"counts": {
 					"highest_offense_level": "Felony",
-					"count": {
-						"count_number": "1",
+					"count": [
+						{
+							"count_number": "1",
+							"disposition_code": "1",
+							"disposition_code_descr": "Dismissed; Gvt motion for judgment of acquittal granted",
+							"procedural_interval": "P9",
+							"procedural_interval_descr": "Disposed",
+							"citation_code": "21:841A=ND.F",
+							"citation_descr": "NARCOTICS - SELL, DISTRIBUTE, OR DISPENSE",
+							"count_descr": "Title 21, United States Code, Sections 841(a)(1) and 841(b)(1)(C); Title 18, United States Code, Sections 2 and 3551 et. seq.  NARCOTICS - SELL, DISTRIBUTE, OR DISPENSE (1)",
+							"disposition_text": "Dismissed"
+						},
+						{
+							"count_number": "1s",
+							"disposition_code": "1",
+							"disposition_code_descr": "Dismissed; Gvt motion for judgment of acquittal granted",
+							"procedural_interval": "P9",
+							"procedural_interval_descr": "Disposed",
+							"citation_code": "21:841A=ND.F",
+							"citation_descr": "NARCOTICS - SELL, DISTRIBUTE, OR DISPENSE",
+							"count_descr": "21:841(a)(1) and 841(b)(1)(C); 18:2 and 3551 et seq.- Distribution and Possession with Intent to Distribute Fentanyl, Methamphetamine and Cocaine. (1s)",
+							"disposition_text": "Dismissed"
+						},
+						{
+							"count_number": "1ss",
+							"disposition_code": "4",
+							"disposition_code_descr": "Convicted/Final plea of guilty",
+							"procedural_interval": "P6",
+							"procedural_interval_descr": "Post Sentencing",
+							"citation_code": "21:841A=CD.F",
+							"citation_descr": "CONTROLLED SUBSTANCE - SELL, DISTRIBUTE, OR DISPENSE",
+							"count_descr": "Title 21, United States Code, Sections 841(a)(l) and 841(b)(l)(C); Titie 18, United States Code, Sections 2 and 3551 et seq. = Distribution and Possession with Intent to distribute Fentanyl, Methamphetamine and Cocaine (1ss)",
+							"disposition_text": "Imprisonment: 240 months on each of Counts 1 and 4, and 360 months on each of counts 2 and 3, the sentences on all counts to run concurrent. Supervised Release: three (3) Years on each count to run concurrent. $400 Special Assessment. Special Conditions of Supervision."
+						},
+						{
+							"count_number": "2",
+							"disposition_code": "1",
+							"disposition_code_descr": "Dismissed; Gvt motion for judgment of acquittal granted",
+							"procedural_interval": "P9",
+							"procedural_interval_descr": "Disposed",
+							"citation_code": "21:841A=ND.F",
+							"citation_descr": "NARCOTICS - SELL, DISTRIBUTE, OR DISPENSE",
+							"count_descr": "Title 21, United States Code, Sections 841(a)(1) and 841(b)(1)(C); Title 18, United States Code, Sections 2 and 3551 et. seq.  NARCOTICS - SELL, DISTRIBUTE, OR DISPENSE (2)",
+							"disposition_text": "Dismissed"
+						},
+						{
+							"count_number": "2s",
+							"disposition_code": "1",
+							"disposition_code_descr": "Dismissed; Gvt motion for judgment of acquittal granted",
+							"procedural_interval": "P9",
+							"procedural_interval_descr": "Disposed",
+							"citation_code": "21:841A=ND.F",
+							"citation_descr": "NARCOTICS - SELL, DISTRIBUTE, OR DISPENSE",
+							"count_descr": "21:841(a)(1) and 841(b)(1)(C); 18:2 and 3551 et seq.- Distribution of Fentanyl Causing the Death of John Doe &#035;1 (2s)",
+							"disposition_text": "Dismissed"
+						},
+						{
+							"count_number": "2ss",
+							"disposition_code": "4",
+							"disposition_code_descr": "Convicted/Final plea of guilty",
+							"procedural_interval": "P6",
+							"procedural_interval_descr": "Post Sentencing",
+							"citation_code": "21:841A=CD.F",
+							"citation_descr": "CONTROLLED SUBSTANCE - SELL, DISTRIBUTE, OR DISPENSE",
+							"count_descr": "Title 21, United States Code, Sections 841(a)(l) and 841(b)(l)(C); Title 18, United States Code, Sections 2 and 3551 et seq. = Distribution of Fentanyl Causing the Death of John Doe &#035;1 (2ss)",
+							"disposition_text": "Imprisonment: 240 months on each of Counts 1 and 4, and 360 months on each of counts 2 and 3, the sentences on all counts to run concurrent. Supervised Release: three (3) Years on each count to run concurrent. $400 Special Assessment. Special Conditions of Supervision."
+						},
+						{
+							"count_number": "3s",
+							"disposition_code": "1",
+							"disposition_code_descr": "Dismissed; Gvt motion for judgment of acquittal granted",
+							"procedural_interval": "P9",
+							"procedural_interval_descr": "Disposed",
+							"citation_code": "21:841A=ND.F",
+							"citation_descr": "NARCOTICS - SELL, DISTRIBUTE, OR DISPENSE",
+							"count_descr": "21:841(a)(1) and 841(b)(1)(C); 18:2 and 3551 et seq.- Distribution of Fentanyl, Methamphetamine and Cocaine causing the Death of John Doe &#035;2 (3s)",
+							"disposition_text": "Dismissed"
+						},
+						{
+							"count_number": "3ss",
+							"disposition_code": "4",
+							"disposition_code_descr": "Convicted/Final plea of guilty",
+							"procedural_interval": "P6",
+							"procedural_interval_descr": "Post Sentencing",
+							"citation_code": "21:841A=CD.F",
+							"citation_descr": "CONTROLLED SUBSTANCE - SELL, DISTRIBUTE, OR DISPENSE",
+							"count_descr": "Title 21, United States Code, Sections 841(a)(l) and 841(b)(l)(C); Title 18,. United States Code, Sections 2 and 3551 et seq. = Distribution ofFentanyl, Methamphetamine and Cocaine Causing. the Death of John Doe &#035;2 (3ss)",
+							"disposition_text": "Imprisonment: 240 months on each of Counts 1 and 4, and 360 months on each of counts 2 and 3, the sentences on all counts to run concurrent. Supervised Release: three (3) Years on each count to run concurrent. $400 Special Assessment. Special Conditions of Supervision."
+						},
+						{
+							"count_number": "4ss",
+							"disposition_code": "4",
+							"disposition_code_descr": "Convicted/Final plea of guilty",
+							"procedural_interval": "P6",
+							"procedural_interval_descr": "Post Sentencing",
+							"citation_code": "21:846=CD.F",
+							"citation_descr": "CONSPIRACY TO DISTRIBUTE CONTROLLED SUBSTANCE",
+							"count_descr": "Title 21, United States Code, Sections 846 and 841 (b )(1 )(C); Title 18, United States Code, Sections 2 and 3551 et seq. = Conspiracy to Distribute and Possess with Intent to Distribute Gamma-Butyrolactone (4ss)",
+							"disposition_text": "Imprisonment: 240 months on each of Counts 1 and 4, and 360 months on each of counts 2 and 3, the sentences on all counts to run concurrent. Supervised Release: three (3) Years on each count to run concurrent. $400 Special Assessment. Special Conditions of Supervision."
+						},
+                        {
+						"count_number": "5",
 						"disposition_code": "4",
 						"disposition_code_descr": "Convicted/Final plea of guilty",
 						"procedural_interval": "P6",
@@ -36,7 +136,8 @@
 						"citation_descr": "UNLAWFUL TRANSPORT OF FIREARMS, ETC.",
 						"count_descr": "18:922(g)(1),924(a)(2) and 3551 et seq. - UNLAWFUL TRANSPORT OF FIREARMS, ETC. (1)",
 						"disposition_text": "The defendant was sentenced to sixty (60) months total in custody to run concurrently with any sentence that the state court will impose, and granted the defendant credit for the twenty-nine (29) months he has spent in custody, for a total of thirty-one (31) months in custody starting from the date of sentencing. Special Assessment of $100.00."
-					}
+					    }
+                    ]
 				},
 				"also_known_as": "",
 				"total_prison_time": "31",
